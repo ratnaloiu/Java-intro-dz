@@ -1,6 +1,5 @@
 // Задача 3
 
-
 package TaskFour3;
 
 import java.util.Scanner;
