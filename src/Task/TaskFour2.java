@@ -1,3 +1,5 @@
+// Задача 2 (цикл)
+
 package Task;
 
 import java.util.Scanner;
